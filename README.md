@@ -128,6 +128,8 @@ The output follows the [Fribbels HSR Optimizer](https://github.com/fribbels/hsr-
 }
 ```
 
+This JSON can also be fed into **[starrail-dashboard](https://github.com/ylongw/starrail-dashboard)** for a self-hosted account overview.
+
 This JSON can be imported directly into [hsr-optimizer](https://fribbels.github.io/hsr-optimizer/) via **Import → Reliquary Archiver**.
 
 ---
