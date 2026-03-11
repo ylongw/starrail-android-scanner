@@ -1,0 +1,7 @@
+*.pcap
+*.json
+!package.json
+__pycache__/
+*.pyc
+.DS_Store
+/dashboard/node_modules/
